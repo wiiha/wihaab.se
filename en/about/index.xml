@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>About Us ... on Example site multi-language</title>
-    <link>https://wihaab.se/en/about/</link>
+    <link>https://www.wihaab.se/en/about/</link>
     <description>Recent content in About Us ... on Example site multi-language</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate><atom:link href="https://wihaab.se/en/about/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 07 Jul 2018 12:37:52 +0600</lastBuildDate><atom:link href="https://www.wihaab.se/en/about/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

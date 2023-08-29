@@ -2,9 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Wiha programvaruutveckling AB</title>
-    <link>https://wihaab.se/sv/tags/</link>
+    <link>https://www.wihaab.se/sv/tags/</link>
     <description>Recent content in Tags on Wiha programvaruutveckling AB</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>sv-SE</language><atom:link href="https://wihaab.se/sv/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>sv-SE</language><atom:link href="https://www.wihaab.se/sv/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
